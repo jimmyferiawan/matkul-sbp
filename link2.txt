@@ -1,0 +1,11 @@
+template ppt : https://www.slidescarnival.com/quintus-free-presentation-template/1405
+- Implementasi Jaringan Syaraf Tiruan Dalam Sistem Pendukung Keputusan Untuk Memmilih Perguruan Tinggi : 
+- IDENTIFIKASI KEMATANGAN BUAH TOMAT BERDASARKAN WARNA MENGGUNAKAN METODE JARINGAN SYARAF TIRUAN (JST) : http://jip.polinema.ac.id/ojs3/index.php/jip/article/view/59
+- Aplikasi Metode Jaringan Syaraf Tiruan Backpropagation Dalam Meramal Tingkat Inflasi di Indonesia : https://www.ejournal.unib.ac.id/index.php/gradien/article/view/378
+- Implementasi JST Dalam Menentukan Kelayakan Nasabah Pinjaman KUR Pada Bank Mandiri Mikro Serbelawan Dengan Metode Backpropogation : http://www.tunasbangsa.ac.id/ejurnal/index.php/jsakti/article/view/25
+- Penerapan Learning Vector Quantization (LVQ) untuk Klasifikasi Status Gizi Anak : https://journal.ugm.ac.id/ijccs/article/view/3354
+- Implementasi Metode Jaringan Saraf Tiruan (jst) Pada Alat Deteksi Nilai Nominal Uang : https://libraryeproceeding.telkomuniversity.ac.id/index.php/engineering/article/view/2878
+- KLASIFIKASI POLA SIDIK JARI MENGGUNAKAN JARINGAN SYARAF TIRUAN BACKPROPAGATION UNTUK ANALISA KARAKTERISTIK SESEORANG : http://unisbablitar.ejournal.web.id/index.php/antivirus/article/view/162
+- SISTEM PENGENALAN BERDASARKAN CIRI GARIS TELAPAK TANGAN MENGGUNAKAN METODE JARINGAN SARAF TIRUAN PERAMBATAN BALIK : https://ejournal.undip.ac.id/index.php/transmisi/article/view/6153
+- PENGENALAN CITRA BUAH MANGGIS MENGGUNAKAN METODE JARINGAN SYARAF TIRUAN BACKPROPAGATION : http://jitter.widyatama.ac.id/index.php/Selisik2016/article/view/131
+- PENERAPAN JARINGAN SYARAF TIRUAN DENGAN RADIAL BASIS FUNCTION UNTUK PENGENALAN GENRE MUSIK : https://jurnalmahasiswa.unesa.ac.id/index.php/mathunesa/article/view/2552
