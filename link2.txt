@@ -9,3 +9,5 @@ template ppt : https://www.slidescarnival.com/quintus-free-presentation-template
 - SISTEM PENGENALAN BERDASARKAN CIRI GARIS TELAPAK TANGAN MENGGUNAKAN METODE JARINGAN SARAF TIRUAN PERAMBATAN BALIK : https://ejournal.undip.ac.id/index.php/transmisi/article/view/6153
 - PENGENALAN CITRA BUAH MANGGIS MENGGUNAKAN METODE JARINGAN SYARAF TIRUAN BACKPROPAGATION : http://jitter.widyatama.ac.id/index.php/Selisik2016/article/view/131
 - PENERAPAN JARINGAN SYARAF TIRUAN DENGAN RADIAL BASIS FUNCTION UNTUK PENGENALAN GENRE MUSIK : https://jurnalmahasiswa.unesa.ac.id/index.php/mathunesa/article/view/2552
+- Deteksi Motif Batik Menggunakan Ekstraksi Tekstur dan Jaringan Syaraf Tiruan : http://csrid.potensi-utama.ac.id/index.php/CSRID/article/view/178/159
+ANALISIS JST DALAM MEMPREDIKSI JUMLAH TAMU PADA HOTEL NONBINTANG : http://publikasi.dinus.ac.id/index.php/technoc/article/view/1762/1368
